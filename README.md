@@ -1,5 +1,5 @@
-## Installation-and-Setup
+## Contents
 
-1. How to run PHP file from VSCode in Ubuntu
-2. How to setup wordpress in Ubuntu
+1. How to run PHP file from VSCode in Ubuntu?
+2. How to setup wordpress in Ubuntu?
 

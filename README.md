@@ -11,3 +11,6 @@
 
 ## Moodle
 - [x] [How to setup moodle in Ubuntu](https://github.com/RifatArefin32/Necessary-Items-Setup-and-Configuration/blob/main/How%20to%20setup%20Moodle%20in%20ubuntu.md)
+
+## Adminer
+- [x] [How to setup Adminer in Ubuntu](#)

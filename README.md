@@ -3,6 +3,10 @@
 - [x] [Necessary Apache2 terminal commands](https://github.com/RifatArefin32/Installation-and-Setup/blob/main/Necessary%20Apache2%20terminal%20command%20in%20Ubuntu.md)
 - [x] [How to switch from a PHP version to another.md](https://github.com/RifatArefin32/Necessary-Items-Setup-and-Configuration/blob/main/How%20to%20switch%20from%20a%20PHP%20version%20to%20another.md)
 
+## Composer 
+- [x] [Setup Composer on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-20-04)
+- [x] [Setup latest version of composer](https://getcomposer.org/download/)
+
 ## WordPress
 - [x] [How to setup wordpress in Ubuntu?](https://ubuntu.com/tutorials/install-and-configure-wordpress#1-overview)
 - [x] [How to setup a wordpress site](https://www.forbes.com/advisor/business/software/build-a-wordpress-website/)

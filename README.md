@@ -20,3 +20,6 @@
 
 ## Apache2 in Ubuntu
 - [x] [Necessary commands for Apache2 server in Ubuntu](https://github.com/RifatArefin32/Necessary-Items-Setup-and-Configuration/blob/main/Necessary%20Apache2%20terminal%20command%20in%20Ubuntu.md)
+
+### Docker
+- [x] [How to install docker in Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)

@@ -17,6 +17,16 @@ sudo apt install apache2
 sudo apt install mysql-server
 sudo mysql_secure_installation
 ```
+**Note:**
+The `sudo mysql_secure_installation` command is a script provided by MySQL to improve the security of your MySQL installation. It guides you through several steps to configure your MySQL database server securely. Here's what it typically does:
+- Set a Password for the MySQL Root User: If you haven't already set a password for the MySQL root user, this script will prompt you to set one. The root user is the administrative account for MySQL.
+- Remove Anonymous Users: By default, MySQL installations allow anonymous users. The script can remove these users to prevent unauthorized access.
+- Disallow Root Login Remotely: To increase security, the script offers to disallow remote login for the root user, ensuring that root can only connect from localhost.
+- Remove Test Database: MySQL installations include a test database by default, which is accessible by all users. The script can delete this database to prevent potential misuse.
+- Reload Privilege Tables: The script will prompt you to reload the privilege tables to ensure that all changes take effect immediately.
+Running mysql_secure_installation is recommended after installing MySQL to help lock down your database server against unauthorized access.
+
+
 ### Install PHP
 Moodle requires specific PHP extensions. Install them along with PHP:
 ```bash

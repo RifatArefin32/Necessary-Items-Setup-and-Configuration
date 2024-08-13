@@ -62,7 +62,6 @@ sudo wget https://download.moodle.org/download.php/direct/stable39/moodle-latest
 ### Extract the downloaded file:
 ```bash
 sudo tar -zxvf moodle-latest-39.tgz
-sudo mv moodle /var/www/html/moodle
 ```
 ## 5. Set Up Moodle Directory
 Create a Moodle data directory:
